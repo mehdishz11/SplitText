@@ -1,1 +1,1 @@
-include ':app', ':textviewsplit'
+include ':sample', ':textviewsplit'
